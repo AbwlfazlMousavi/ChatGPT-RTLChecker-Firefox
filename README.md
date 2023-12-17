@@ -13,9 +13,9 @@ You can install the extension directly from the [Firefox Add-on Store](https://a
 
 Alternatively, to install manually:
 1. Download the extension project as a ZIP file.
-2. Unzip it to a constant location on your computer.
+2. Save it to a constant location on your computer.
 3. Enable 'Developer Mode' in Firefox.
-4. Load the extension by selecting the unzipped folder.
+4. Load the extension by selecting the zipped folder.
 Enjoy the enhanced Chat GPT experience!
 
 ## Usage
