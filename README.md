@@ -9,7 +9,14 @@
 - **Ease of Use**: Works seamlessly on the Chat GPT interface without any need for manual setup.
 
 ## Installation
-Download the extension project as a ZIP file. Unzip it to a constant location on your computer. Then, enable 'Developer Mode' in Firefox and load the extension by selecting the unzipped folder. Enjoy the enhanced Chat GPT experience!
+You can install the extension directly from the [Firefox Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-rtlchecker/).
+
+Alternatively, to install manually:
+1. Download the extension project as a ZIP file.
+2. Unzip it to a constant location on your computer.
+3. Enable 'Developer Mode' in Firefox.
+4. Load the extension by selecting the unzipped folder.
+Enjoy the enhanced Chat GPT experience!
 
 ## Usage
 Once installed, the extension automatically applies the RTL and text justification features on the Chat GPT interface at chat.openai.com. No additional configuration is required.
